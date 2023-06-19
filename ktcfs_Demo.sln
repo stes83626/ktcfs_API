@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KTCFS", "KTCFS\KTCFS.csproj", "{ADC30476-AC24-483C-A860-9B81406C4BF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winPlatFind", "winPlatFind\winPlatFind.csproj", "{D00114DC-2C8E-4285-A205-C85DB139E4A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlatLamp", "PlatLamp\PlatLamp.csproj", "{891CD6D8-CF30-4C9B-B153-59633866D824}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LED_Parking_Count", "LED_Parking_Count\LED_Parking_Count.csproj", "{5383AE0D-1144-4CCE-A1FD-131091944E25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "富軥888_API", "富軥888_API\富軥888_API.csproj", "{0DE30AC7-FDBC-4CAE-8D69-CC9D96415161}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADC30476-AC24-483C-A860-9B81406C4BF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC30476-AC24-483C-A860-9B81406C4BF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC30476-AC24-483C-A860-9B81406C4BF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC30476-AC24-483C-A860-9B81406C4BF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D00114DC-2C8E-4285-A205-C85DB139E4A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D00114DC-2C8E-4285-A205-C85DB139E4A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D00114DC-2C8E-4285-A205-C85DB139E4A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D00114DC-2C8E-4285-A205-C85DB139E4A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{891CD6D8-CF30-4C9B-B153-59633866D824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{891CD6D8-CF30-4C9B-B153-59633866D824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{891CD6D8-CF30-4C9B-B153-59633866D824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{891CD6D8-CF30-4C9B-B153-59633866D824}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5383AE0D-1144-4CCE-A1FD-131091944E25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5383AE0D-1144-4CCE-A1FD-131091944E25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5383AE0D-1144-4CCE-A1FD-131091944E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5383AE0D-1144-4CCE-A1FD-131091944E25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DE30AC7-FDBC-4CAE-8D69-CC9D96415161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DE30AC7-FDBC-4CAE-8D69-CC9D96415161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DE30AC7-FDBC-4CAE-8D69-CC9D96415161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DE30AC7-FDBC-4CAE-8D69-CC9D96415161}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD24512A-CD60-4664-B953-DC4940536B8C}
+	EndGlobalSection
+EndGlobal
